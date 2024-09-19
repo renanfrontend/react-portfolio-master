@@ -12,7 +12,7 @@ const introdata = {
         third: "Eu desenvolvo Frontend com paixão",
     },
     description: "Olá! Meu nome é Renan Augusto e sou um desenvolvedor frontend apaixonado por criar experiências incríveis na web. Com habilidades em HTML, CSS e JavaScript, estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Minha missão é transformar ideias em interfaces bonitas e funcionais, garantindo uma ótima experiência do usuário. Vamos trabalhar juntos para criar algo incrível!",
-    your_img_url: "https://th.bing.com/th/id/OIG4.PR4lQML6j7ANfgwU2v6p?pid=ImgGn",
+    your_img_url: "https://drive.google.com/file/d/1S0Gnav44lniCXOCbDfOZYJ7abvt0vIuS/view?usp=drive_link",
 };
 
 const dataabout = {
